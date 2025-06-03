@@ -1,0 +1,1 @@
+Gonna experiement with CLIP/OpenCLIP and use multi-indexing within Qdrant which eliminates the use of two separate clusters in Qdrant. (Also because I get only get on ecluster on Qdrant free from the cloud version or Docker)

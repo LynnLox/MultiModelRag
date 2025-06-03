@@ -12,3 +12,6 @@ qdrant_client
 llama-index-embeddings-clip
 llama-index-vector-stores-qdrant
 wikipedia
+
+sentence-tranformers
+transformer
